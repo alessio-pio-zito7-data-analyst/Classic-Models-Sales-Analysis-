@@ -63,11 +63,12 @@ Two interactive Tableau dashboards are available to explore the key insights fro
 
 🔗 [View Classic Cars Business Analysis on Tableau Public]
 (https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
-A preview is shown below:
-![Dashboard Preview](INSERISCI_SCREENSHOT)
+
+A preview is shown below: ![Dashboard Preview](INSERISCI_SCREENSHOT)
 🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public]
 (https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
-![Dashboard Preview](INSERISCI_SCREENSHOT)
+
+A preview is shown below: ![Dashboard Preview](INSERISCI_SCREENSHOT)
 
 ##  Data Checks
 
@@ -86,7 +87,7 @@ Overall, the dataset is clean and suitable for analysis.
 
 ---
 
-##  Customer Performance
+##  Customers Performance
 
 Most customers placed no more than 1–2 orders per year.
 
@@ -104,7 +105,7 @@ This indicates a potential **early sign of churn** among lower-tier customers.
 
 ---
 
-##  Revenue Trends & Growth
+##  Revenue Trends
 
 Revenue follows a clear seasonal pattern, with lower performance at the beginning of the year and a peak toward year-end.
 
@@ -127,7 +128,7 @@ Most products show positive growth, with only a few declining, highlighting a he
 
 ---
 
-##  Cross-Selling Analysis
+##  Purchased Together 
 
 Product lines are frequently purchased together, forming a highly interconnected ecosystem.
 
