@@ -64,13 +64,11 @@ Two interactive Tableau dashboards are available to explore the key insights fro
 🔗 [View Classic Cars Business Analysis on Tableau Public]
 (https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
 
-A preview is shown below: ![Dashboard Preview]("Tableau Tables\Classic Cars Business Analysis.png")
-
 
 🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public]
 (https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
 
-A preview is shown below: ![Dashboard Preview](INSERISCI_SCREENSHOT)
+Both tables previews are available in the folder **Tableau**
 
 ##  Data Checks
 
