@@ -1,6 +1,16 @@
-# Classic-Models-Sales-Analysis-
+# Classic Models Sales Analysis
 
-## 📊 Project Overview
+##  Quick Summary
+
+- Revenue grew +33% YoY driven by higher order frequency and customer growth  
+- Business is not dependent on large orders → growth is distributed  
+- Strong retention (87.84%) and increasing customer engagement  
+- All product lines are growing, supported by strong cross-selling dynamics  
+- Performance is concentrated among top employees, but lower performers are significantly improving  
+
+**Full analysis below**
+
+##  Project Overview
 
 This project analyzes the sales performance of a classic cars company, focusing on revenue drivers, customer behavior, product performance, and office efficiency.
 
@@ -8,7 +18,7 @@ The analysis is based on data from **2003–2004**, simulating a real-world scen
 
 ---
 
-## 🎯 Business Questions
+##  Business Questions
 
 - What are the main drivers of revenue growth?  
 - Who are the most valuable customers in terms of revenue and profitability?  
@@ -18,7 +28,7 @@ The analysis is based on data from **2003–2004**, simulating a real-world scen
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - SQL (MySQL Workbench)  
 - Excel (data validation)  
@@ -26,7 +36,7 @@ The analysis is based on data from **2003–2004**, simulating a real-world scen
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset consists of 8 tables covering customers, orders, products, payments, employees, and offices.
 
@@ -34,7 +44,7 @@ It includes transactional data (quantity, price), customer information, product 
 
 ---
 
-## 📊 Analysis Approach
+##  Analysis Approach
 
 The project follows a structured workflow:
 
@@ -47,7 +57,19 @@ Project folders are organized accordingly, including SQL queries, outputs, and d
 
 ---
 
-## 🔎 Data Checks
+## Dashboard
+
+Two interactive Tableau dashboards are available to explore the key insights from this analysis:
+
+🔗 [View Classic Cars Business Analysis on Tableau Public]
+(https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
+A preview is shown below:
+![Dashboard Preview](INSERISCI_SCREENSHOT)
+🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public]
+(https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
+![Dashboard Preview](INSERISCI_SCREENSHOT)
+
+##  Data Checks
 
 - No duplicates found across primary keys  
 - Strong referential integrity across all tables  
@@ -64,7 +86,7 @@ Overall, the dataset is clean and suitable for analysis.
 
 ---
 
-## 👥 Customer Performance
+##  Customer Performance
 
 Most customers placed no more than 1–2 orders per year.
 
@@ -82,7 +104,7 @@ This indicates a potential **early sign of churn** among lower-tier customers.
 
 ---
 
-## 📈 Revenue Trends & Growth
+##  Revenue Trends & Growth
 
 Revenue follows a clear seasonal pattern, with lower performance at the beginning of the year and a peak toward year-end.
 
@@ -92,7 +114,7 @@ Overall, revenue increased by **+33.43% YoY**, indicating strong and consistent 
 
 ---
 
-## 🏆 Product Performance (Best Sellers)
+##  Product Performance (Best Sellers)
 
 Top-selling products are well distributed across product lines, indicating no single category dominance.
 
@@ -105,7 +127,7 @@ Most products show positive growth, with only a few declining, highlighting a he
 
 ---
 
-## 🔗 Cross-Selling Analysis
+##  Cross-Selling Analysis
 
 Product lines are frequently purchased together, forming a highly interconnected ecosystem.
 
@@ -117,7 +139,7 @@ This highlights strong cross-selling opportunities and the importance of maintai
 
 ---
 
-## 👨‍💼 Employees & Offices Performance
+##  Employees & Offices Performance
 
 The top 10 employees generate ~80% of total revenue (Pareto distribution).
 
@@ -134,7 +156,7 @@ Underperforming offices:
 
 ---
 
-## 💰 Order Value Distribution
+##  Order Value Distribution
 
 Order values are balanced, with average and median closely aligned.
 
@@ -144,7 +166,7 @@ This confirms that **small and mid-sized orders drive revenue**, contributing to
 
 ---
 
-## 📊 Business KPIs Overview
+##  Business KPIs Overview
 
 Revenue grew from **3.22M → 4.30M**, driven by more customers (73 → 87) and orders (108 → 145).
 
@@ -156,7 +178,7 @@ Growth is driven by **higher engagement, not larger transactions**.
 
 ---
 
-## 🔄 Customer Retention & Growth
+##  Customer Retention & Growth
 
 Retention is strong at **87.84%**, with a low churn rate of 12.16%.
 
@@ -170,7 +192,7 @@ Growth is supported by:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Revenue grew +33% YoY, driven by customers and order frequency  
 - Growth is balanced and not dependent on large transactions  
@@ -182,7 +204,7 @@ Growth is supported by:
 
 ---
 
-## 📌 Recommendations
+##  Recommendations
 
 - Increase order frequency through incentives (e.g., free shipping thresholds)  
 
@@ -197,3 +219,4 @@ Growth is supported by:
 
 - Focus on Ferrari models (top sellers) and expand similar offerings  
   while reducing inventory of underperforming products  
+
