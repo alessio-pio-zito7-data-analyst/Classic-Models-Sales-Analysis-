@@ -1,8 +1,6 @@
 # Classic Models Sales Analysis
 
-
 End-to-end data analysis project focused on uncovering revenue drivers and sales performance gaps.
-
 
 ##  Quick Summary
 
