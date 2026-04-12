@@ -41,7 +41,7 @@
 --- 
 
 ##  Snapshot 
-![Dashboard](Tableau/https://github.com/alessio-pio-zito7-data-analyst/Classic-Models-Sales-Analysis-/blob/main/Tableau/Classic%20Cars%20Business%20Analysis.png)
+![Dashboard](Tableau/Tableau/Classic%20Cars%20Business%20Analysis.png)
 
 ---
 
