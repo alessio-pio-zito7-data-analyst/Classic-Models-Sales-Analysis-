@@ -41,11 +41,11 @@
 --- 
 
 ##  Snapshot 
-![Dashboard](Tableau/Classic_Cars_Business_Analysis.png)
+![Dashboard](Tableau/)
 
 ---
 
-## Dashboard
+## Full Dashboards
 
 Two interactive Tableau dashboards are available to explore the key insights from this analysis:
 
