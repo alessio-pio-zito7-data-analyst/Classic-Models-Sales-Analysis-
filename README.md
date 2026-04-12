@@ -41,7 +41,7 @@
 --- 
 
 ##  Snapshot 
-![Dashboard](Tableau/Tableau/Classic%20Cars%20Business%20Analysis.png)
+![Dashboard](Tableau/Classic%20Cars%20Business%20Analysis.png)
 
 ---
 
