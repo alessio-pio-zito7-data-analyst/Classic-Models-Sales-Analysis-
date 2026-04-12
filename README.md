@@ -61,12 +61,10 @@ Project folders are organized accordingly, including SQL queries, outputs, and d
 
 Two interactive Tableau dashboards are available to explore the key insights from this analysis:
 
-🔗 [View Classic Cars Business Analysis on Tableau Public]
-(https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
+🔗 [View Classic Cars Business Analysis on Tableau Public](https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
 
 
-🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public]
-(https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
+🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public](https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
 
 Both tables previews are available in the folder **Tableau**
 
