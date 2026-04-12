@@ -6,11 +6,10 @@ End-to-end data analysis project focused on uncovering revenue drivers and sales
 
 ##  Quick Summary
 
-- Revenue grew +33% YoY driven by higher order frequency and customer growth  
-- Business is not dependent on large orders → growth is distributed  
-- Strong retention (87.84%) and increasing customer engagement  
-- All product lines are growing, supported by strong cross-selling dynamics  
-- Performance is concentrated among top employees, but lower performers are significantly improving
+- Revenue grew **+33% YoY**, driven by higher order frequency and customer growth  
+- Growth is **well distributed**, not dependent on large orders  
+- Strong **customer retention (87.84%)** with increasing engagement  
+- Performance follows a **Pareto distribution**, with improving lower-performing sales reps  
 
 ---
 
@@ -54,8 +53,7 @@ Two interactive Tableau dashboards are available to explore the key insights fro
 
 Both tables previews are available in the folder **Tableau**
 
-
-👉 **Explore SQL queries to dive deeper into the analysis.**
+👉 **Explore full analysis below and SQL queries to dive deeper into the analysis.**
 
 ##  Project Overview
 
