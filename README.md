@@ -1,5 +1,9 @@
 # Classic Models Sales Analysis
 
+
+End-to-end data analysis project focused on uncovering revenue drivers and sales performance gaps.
+
+
 ##  Quick Summary
 
 - Revenue grew +33% YoY driven by higher order frequency and customer growth  
@@ -12,35 +16,29 @@
 
 ##  Key Insights
 
-- Revenue grew +33% YoY, driven by customers and order frequency  
-- Growth is balanced and not dependent on large transactions  
-- Small and mid-sized orders are key drivers  
-- Strong retention and increasing customer engagement  
-- Growth is distributed across products and categories  
-- Strong cross-selling relationships between product lines  
-- Pareto distribution in employee performance, with improving lower performers  
+- Revenue grew **+33% YoY**, driven by higher customer activity  
+- Growth is **broad-based**, led by small and mid-sized orders  
+- Strong **customer retention and engagement**  
+- Clear **cross-selling patterns across product lines**  
+- Employee performance shows a **Pareto distribution**, with improving lower performers  
 
 ---
 
 ##  Recommendations
 
-- Increase order frequency through incentives (e.g., free shipping thresholds)  
-
-- Strengthen engagement with lower-tier customers to reduce churn  
-
-- Leverage cross-selling through bundles and targeted promotions  
-
-- Support underperforming offices:  
-  Tokyo should expand its team, as it currently operates with only one representative despite strong market potential  
-
-- Encourage knowledge sharing between top and lower-performing employees  
-
-- Focus on Ferrari models (top sellers) and expand similar offerings  
-  while reducing inventory of underperforming products
+- Increase order frequency through **targeted incentives**  
+- Improve engagement of lower-tier customers to **reduce churn**  
+- Leverage **cross-selling via bundles and promotions**  
+- Expand Tokyo team to match **high market potential**  
+- Improve overall sales performance by replicating strategies used by top-performing sales reps
+- Focus on **top-selling Ferrari models** and reduce low-performing inventory  
 
 --- 
 
 ##  Snapshot 
+
+This dashboard provides a high-level overview of revenue, profit, and sales trends.
+
 ![Dashboard](Tableau/Classic%20Cars%20Business%20Analysis.png)
 
 ---
@@ -57,7 +55,7 @@ Two interactive Tableau dashboards are available to explore the key insights fro
 Both tables previews are available in the folder **Tableau**
 
 
-**Full analysis below**
+👉 **Explore SQL queries to dive deeper into the analysis.**
 
 ##  Project Overview
 
