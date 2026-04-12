@@ -6,7 +6,56 @@
 - Business is not dependent on large orders → growth is distributed  
 - Strong retention (87.84%) and increasing customer engagement  
 - All product lines are growing, supported by strong cross-selling dynamics  
-- Performance is concentrated among top employees, but lower performers are significantly improving  
+- Performance is concentrated among top employees, but lower performers are significantly improving
+
+---
+
+##  Key Insights
+
+- Revenue grew +33% YoY, driven by customers and order frequency  
+- Growth is balanced and not dependent on large transactions  
+- Small and mid-sized orders are key drivers  
+- Strong retention and increasing customer engagement  
+- Growth is distributed across products and categories  
+- Strong cross-selling relationships between product lines  
+- Pareto distribution in employee performance, with improving lower performers  
+
+---
+
+##  Recommendations
+
+- Increase order frequency through incentives (e.g., free shipping thresholds)  
+
+- Strengthen engagement with lower-tier customers to reduce churn  
+
+- Leverage cross-selling through bundles and targeted promotions  
+
+- Support underperforming offices:  
+  Tokyo should expand its team, as it currently operates with only one representative despite strong market potential  
+
+- Encourage knowledge sharing between top and lower-performing employees  
+
+- Focus on Ferrari models (top sellers) and expand similar offerings  
+  while reducing inventory of underperforming products
+
+--- 
+
+##  Snapshot 
+![Dashboard](Tableau/Classic_Cars_Business_Analysis.png)
+
+---
+
+## Dashboard
+
+Two interactive Tableau dashboards are available to explore the key insights from this analysis:
+
+🔗 [View Classic Cars Business Analysis on Tableau Public](https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
+
+
+🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public](https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
+
+Both tables previews are available in the folder **Tableau**
+
 
 **Full analysis below**
 
@@ -56,17 +105,6 @@ The project follows a structured workflow:
 Project folders are organized accordingly, including SQL queries, outputs, and dashboards.
 
 ---
-
-## Dashboard
-
-Two interactive Tableau dashboards are available to explore the key insights from this analysis:
-
-🔗 [View Classic Cars Business Analysis on Tableau Public](https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
-
-
-🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public](https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
-
-Both tables previews are available in the folder **Tableau**
 
 ##  Data Checks
 
@@ -188,34 +226,3 @@ Growth is supported by:
 - higher purchase frequency  
 - increasing LTV  
 - a broader customer base  
-
----
-
-##  Key Insights
-
-- Revenue grew +33% YoY, driven by customers and order frequency  
-- Growth is balanced and not dependent on large transactions  
-- Small and mid-sized orders are key drivers  
-- Strong retention and increasing customer engagement  
-- Growth is distributed across products and categories  
-- Strong cross-selling relationships between product lines  
-- Pareto distribution in employee performance, with improving lower performers  
-
----
-
-##  Recommendations
-
-- Increase order frequency through incentives (e.g., free shipping thresholds)  
-
-- Strengthen engagement with lower-tier customers to reduce churn  
-
-- Leverage cross-selling through bundles and targeted promotions  
-
-- Support underperforming offices:  
-  Tokyo should expand its team, as it currently operates with only one representative despite strong market potential  
-
-- Encourage knowledge sharing between top and lower-performing employees  
-
-- Focus on Ferrari models (top sellers) and expand similar offerings  
-  while reducing inventory of underperforming products  
-
