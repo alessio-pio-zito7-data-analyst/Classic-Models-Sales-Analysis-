@@ -26,7 +26,8 @@ SELECT t1.officeCode, t2.city, t1.firstName, t1.lastName
 FROM employees t1
 LEFT JOIN offices t2
 ON t1.officeCode = t2.officeCode
-WHERE t2.officeCode IS NULL;
+WHERE t1.officeCode IS NOT NULL
+  AND t2.officeCode IS NULL;
 
 -- Data Quality Check: Reporting Hierarchy Integrity
 -- Validate that each non-NULL reportsTo value references an existing employee
