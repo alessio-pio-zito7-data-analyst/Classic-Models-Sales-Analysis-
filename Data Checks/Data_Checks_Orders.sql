@@ -31,4 +31,5 @@ SELECT t1.orderNumber, t1.customerNumber
 FROM orders t1
 LEFT JOIN customers t2
 ON t1.customerNumber = t2.customerNumber
-WHERE t2.customerNumber IS NULL;
+WHERE t1.customerNumber IS NOT NULL
+AND t2.customerNumber IS NULL;
