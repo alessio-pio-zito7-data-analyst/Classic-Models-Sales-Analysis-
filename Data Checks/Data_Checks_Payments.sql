@@ -22,10 +22,9 @@ WHERE amount <= 0;
     
 -- Data Quality Check: Customer Referential Integrity
 -- Verify that each payment is linked to a valid customer
-SELECT t1.checkNumber, t2.customerNumber, t2.customerName, t3.orderNumber
+SELECT t1.checkNumber, t1.customerNumber
 FROM payments t1
 LEFT JOIN customers t2
-ON t1.customerNumber = t2.customerNumber
-LEFT JOIN orders t3
-ON t3.customerNumber = t1.customerNumber
-WHERE t2.customerNumber IS NULL;
+    ON t1.customerNumber = t2.customerNumber
+WHERE t1.customerNumber IS NOT NULL
+  AND t2.customerNumber IS NULL;
