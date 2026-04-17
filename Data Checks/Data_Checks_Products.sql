@@ -24,10 +24,10 @@ FROM products;
 
 -- Data Quality Check: Duplicate Products
 -- Ensure productCode is unique
-SELECT productCode, productName, COUNT(*) AS duplicates
-	FROM products
-	GROUP BY productCode, productName
-	HAVING COUNT(*) > 1;
+SELECT productCode, COUNT(*) AS duplicates
+FROM products
+GROUP BY productCode
+HAVING COUNT(*) > 1;
 
 -- Data Validation: Pricing Consistency
 -- Identify products where buyPrice exceeds MSRP (potential data issue)
