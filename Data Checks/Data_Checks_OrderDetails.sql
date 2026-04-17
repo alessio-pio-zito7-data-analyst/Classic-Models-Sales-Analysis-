@@ -26,14 +26,16 @@ SELECT *
 FROM orderdetails t1
 LEFT JOIN orders t2
 	ON t1.orderNumber = t2.orderNumber
-WHERE t2.orderNumber IS NULL;
+WHERE t1.orderNumber IS NOT NULL
+AND t2.orderNumber IS NULL;
 
 -- Verify that each productCode exists in the products table
 SELECT t1.productCode, t2.productName
 FROM orderdetails t1
 LEFT JOIN products t2
 ON t1.productCode = t2.productCode
-WHERE t2.productCode IS NULL;
+WHERE t1.productCode IS NOT NULL
+AND t2.productCode IS NULL;
 
 /*Orderdetails table passed all critical data quality checks.
 No null values, duplicates, or referential integrity issues were found.*/
