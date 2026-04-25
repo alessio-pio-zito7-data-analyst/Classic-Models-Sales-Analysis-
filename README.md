@@ -52,7 +52,7 @@ This dashboard provides a high-level overview of sales performance across office
 - Dashboard available in the **/PowerBI** folder as a downloadable `.pbix` file  
 - Open with Power BI Desktop to explore full interactivity
   
-Note: Videos are hosted in the repository and may require download depending on browser support.  
+Note: Videos are hosted in the repository **Power BI Video Demos** may require download depending on browser support.  
 
 
 👉 **Explore full analysis below and SQL queries to dive deeper into the analysis.**
