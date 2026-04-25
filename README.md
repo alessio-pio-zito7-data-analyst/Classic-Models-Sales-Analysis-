@@ -2,6 +2,14 @@
 
 End-to-end data analysis project focused on uncovering revenue drivers and sales performance gaps.
 
+##  Snapshot
+
+This dashboard provides a high-level overview of revenue, profit, and sales metrics.
+
+![Dashboard](Power%20BI/Screenshot%20Dashboards/Classic%20Cars%20Business%20Analysis%20Power%20BI.png)
+
+---
+
 ##  Quick Summary
 
 - Revenue grew **+33% YoY**, driven by higher order frequency and customer growth  
@@ -32,26 +40,24 @@ End-to-end data analysis project focused on uncovering revenue drivers and sales
 
 --- 
 
-##  Snapshot 
+##  Snapshot  
 
-This dashboard provides a high-level overview of revenue, profit, and sales trends.
+This dashboard provides a high-level overview of sales performance across offices.
 
-![Dashboard](Tableau/Classic%20Cars%20Business%20Analysis.png)
+![Dashboard](Power%20BI/Screenshot%20Dashboards/Sales%20and%20Offfice%20Performance%20Paris.png)
 
 ---
 
-## Full Dashboards
+###  Power BI (Final Version)
+- Dashboard available in the **/PowerBI** folder as a downloadable `.pbix` file  
+- Open with Power BI Desktop to explore full interactivity
+  
+Note: Videos are hosted in the repository and may require download depending on browser support.  
 
-Two interactive Tableau dashboards are available to explore the key insights from this analysis:
-
-🔗 [View Classic Cars Business Analysis on Tableau Public](https://public.tableau.com/shared/BY3RWDY4J?:display_count=n&:origin=viz_share_link)
-
-
-🔗 [View Classic Cars Sales and Offices Performance Overview on Tableau Public](https://public.tableau.com/shared/QS93QD756?:display_count=n&:origin=viz_share_link)
-
-Both tables previews are available in the folder **Tableau**
 
 👉 **Explore full analysis below and SQL queries to dive deeper into the analysis.**
+
+---
 
 ##  Project Overview
 
@@ -75,7 +81,13 @@ The analysis is based on data from **2003–2004**, simulating a real-world scen
 
 - SQL (MySQL Workbench)  
 - Excel (data validation)  
-- Tableau (data visualization)  
+- Power BI (data visualization)
+
+##  Tools Evolution
+
+The project was initially developed using Tableau for data visualization.  
+It was later migrated to Power BI to better align with industry-standard tools in the Netherlands and to enhance dashboard flexibility and interactivity.
+The original Tableau dashboards are still available in the `/Tableau (deprecated)` folder for reference.
 
 ---
 
@@ -83,7 +95,7 @@ The analysis is based on data from **2003–2004**, simulating a real-world scen
 
 The dataset consists of 8 tables covering customers, orders, products, payments, employees, and offices.
 
-It includes transactional data (quantity, price), customer information, product categories, and organizational structure, enabling a complete analysis of business performance.
+It includes transactional data (quantityOrdered, priceEach and buyPrice), customer information, product categories, and organizational structure, enabling a complete analysis of business performance.
 
 ---
 
@@ -94,7 +106,7 @@ The project follows a structured workflow:
 1. Data quality checks  
 2. Exploratory analysis using SQL  
 3. Validation in Excel  
-4. Data visualization in Tableau  
+4. Data visualization in Power BI  
 
 Project folders are organized accordingly, including SQL queries, outputs, and dashboards.
 
