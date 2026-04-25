@@ -44,7 +44,7 @@ This dashboard provides a high-level overview of revenue, profit, and sales metr
 
 This dashboard provides a high-level overview of sales performance across offices.
 
-![Dashboard](Power%20BI/Screenshot%20Dashboards/Sales%20and%20Offfice%20Performance%20Paris.png)
+![Dashboard](Power%20BI/Screenshot%20Dashboards/Sales%20and%20Office%20Performance%20Paris.png)
 
 ---
 
