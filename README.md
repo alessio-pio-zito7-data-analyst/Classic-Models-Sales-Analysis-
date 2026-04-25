@@ -2,6 +2,10 @@
 
 End-to-end data analysis project focused on uncovering revenue drivers and sales performance gaps.
 
+The analysis was performed using SQL (MySQL), applying advanced techniques such as Common Table Expressions (CTEs), window functions, and complex joins to structure, clean, and aggregate transactional data.
+
+Excel was used for data validation and consistency checks, while Power BI was used to build interactive dashboards that surface key KPIs, trends, and performance insights.
+
 ##  Snapshot
 
 This dashboard provides a high-level overview of revenue, profit, and sales metrics.
