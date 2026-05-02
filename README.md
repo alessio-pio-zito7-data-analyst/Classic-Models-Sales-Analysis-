@@ -4,7 +4,18 @@ End-to-end data analysis project focused on uncovering revenue drivers and sales
 
 The analysis was performed using SQL (MySQL), applying advanced techniques such as Common Table Expressions (CTEs), window functions, and complex joins to structure, clean, and aggregate transactional data.
 
-Excel was used for data validation and consistency checks, while Power BI was used to build interactive dashboards that surface key KPIs, trends, and performance insights.
+---
+
+# How to Navigate This Project
+
+This project can be explored in two ways:
+
+1. Quick Overview
+Start from the dashboard snapshots below and review the Key Insights and Recommendations for a concise summary of findings.
+
+2. Deep Dive
+Explore the analysis step by step, starting from **Project Overview** through to the final sections.
+Each phase, starting from **Data Checks**, is organized into dedicated folders containing the corresponding SQL queries and logic.
 
 ##  Snapshot
 
@@ -103,20 +114,7 @@ It includes transactional data (quantityOrdered, priceEach and buyPrice), custom
 
 ---
 
-##  Analysis Approach
-
-The project follows a structured workflow:
-
-1. Data quality checks  
-2. Exploratory analysis using SQL  
-3. Validation in Excel  
-4. Data visualization in Power BI  
-
-Project folders are organized accordingly, including SQL queries, outputs, and dashboards.
-
----
-
-##  Data Checks
+##  Data Checks 
 
 - No duplicates found across primary keys  
 - Strong referential integrity across all tables  
